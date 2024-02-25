@@ -213,104 +213,104 @@ var textStrings_DE = {
 
 var textStrings_IT = {
     // Act 1
-    "niceHat"              : "OOH CHE BEL CAPPELLO"                                     ,
-    "outtaHere"            : "s\xEC bravi, andatevene"                                  ,
-    "getARoom"             : "CHE SCHIFO, TROVATEVI UNA STANZA"                         ,
-    "notCoolAnymore"       : "cmq i cappelli non vanno pi\xF9 di moda"                  ,
-    "tvOnTv"               : "UN TELEVISORE… IN TV!"                                    ,
-    "cricky"               : "TENERO GRILLO <3"                                         ,
-    "tooManyCrickets"      : "ok, un po’ troppi grilli"                                 ,
-    "normalPeep"           : "\xE8 solo una persona normale"                            ,
-    "normalPeeps"          : "\xE8 solo gente normale"                                    ,
-    "wowNothing"           : "WOW, NON C’\xC8 NIENTE!"                                             ,
+    "niceHat"              : "OOH NICE HAT"                                          ,
+    "outtaHere"            : "yeah git on outta here"                                ,
+    "getARoom"             : "GROSS, GO GET A ROOM"                                  ,
+    "notCoolAnymore"       : "nvm hats aren't cool anymore"                          ,
+    "tvOnTv"               : "A TV... ON TV!"                                        ,
+    "cricky"               : "LIL' CRICKY <3"                                        ,
+    "tooManyCrickets"      : "okay that's too many crickets"                         ,
+    "normalPeep"           : "just a normal peep"                                    ,
+    "normalPeeps"          : "just some normal peeps"                                ,
+    "wowNothing"           : "WOWWEE, IT'S NOTHING"                                  ,
     
     // Act 2
-    "crazySquareAttacks"   : "QUADRATO IMPAZZITO ATTACCA PASSANTE",
-    "justMissed"           : "oooooh, l’hai mancato per poco"                                            ,
-    "somethingInteresting" : "(devi beccarli mentre fanno *qualcosa* di interessante...)"                                          ,
-    "whoIsScreaming"       : "(devi beccare chi gli grida contro!)"                                      ,
-    "circleFearsSquares"   : "CERCHIO SPAVENTATO DAI QUADRATI"                                       ,
-    "whoScaresThem"        : "(devi anche beccare *chi* li spaventa)"                                     ,
-    "areTheyScared"        : "(devi beccarli *spaventati* da un quadrato)"                            ,
-    "squaresSnubCircles"   : "I QUADRATI SNOBBANO I CERCHI"               ,
-    "areTheySnubbed"       : "(devi beccarli *mentre* snobbano un cerchio)"                        ,
-    "everyoneHates"        : "TUTTI ODIANO TUTTI!!1!"                                             ,
-    "almostEveryoneHates"  : "QUASI TUTTI ODIANO TUTTI..."                                          ,
-    "squaresHateCircles"   : "I QUADRATI ODIANO I CERCHI"                                            ,
-    "circlesHateSquares"   : "I CERCHI ODIANO I QUADRATI"                                            ,
-    "areTheyYelling"       : "(devi beccarli mentre *urlano* contro gli altri)"      ,//not used
-    "nerdsNow"             : "che fa ‘sta gente adesso?"                                     ,
-    "schockedPeep"         : "perch\xE9 questa persona \xE8 sconvolta?"                                           ,
-    "whatever"             : "ma chissenefrega"                                                           ,
+    "crazySquareAttacks"   : "CRAZED SQUARE ATTACKS"                                 ,
+    "justMissed"           : "oooooh just missed it"                                 ,
+    "somethingInteresting" : "(ya gotta catch 'em doing *something* interesting...)" ,
+    "whoIsScreaming"       : "(ya gotta catch who's screaming at 'em)"               ,
+    "circleFearsSquares"   : "CIRCLE FEARS SQUARES"                                  ,
+    "whoScaresThem"        : "(ya gotta also catch *who* they're scared by)"         ,
+    "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
+    "squaresSnubCircles"   : "SQUARES SNUB CIRCLES"                                  ,
+    "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
+    "everyoneHates"        : "EVERYONE HATES EVERYONE!!1!"                           ,
+    "almostEveryoneHates"  : "ALMOST EVERYONE HATES EVERYONE..."                     ,
+    "squaresHateCircles"   : "SQUARES HATE CIRCLES"                                  ,
+    "circlesHateSquares"   : "CIRCLES HATE SQUARES"                                  ,
+    "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
+    "nerdsNow"             : "what are these nerds doing now"                        ,
+    "schockedPeep"         : "why's this peep shocked?"                              ,
+    "whatever"             : "whatever"                                              ,
     
     // Act 3
-    "ellipsis"             : ". . ."                                                             ,
-    "coolNoMore"           : "non hai sentito? i cappelli non vanno pi\xF9 di moda!"           ,
-    "beScared"             : "SPAVENTATEVI. ARRABBIATEVI."                                        ,
+    "ellipsis"             : ". . ."                                                 ,
+    "coolNoMore"           : "hats ain't cool no more, haven't you heard?"           ,
+    "beScared"             : "BE SCARED. BE ANGRY."                                  ,
     
     // MANIFESTO
     "manifesto" : [
-       //"come se i tuoi spettatori volessero BUONE notizie"     ,
-       "chi vuoi che si metta a guardare *persone che vanno d’accordo?*" ,
-       "la pace \xE8 noiosa, la violenza diventa virale" ,
-       //"la pace \xE8 noiosa. i conflitti attirano clic"        ,
-       "e ogni storia ha bisogno di un conflitto, quindi..."        ,
-       //"DAI AL PUBBLICO QUELLO CHE VUOLE"                       ,
-       "DAI AL PUBBLICO QUELLO CHE VUOLE"
+       //"as if you viewers want GOOD news"       ,
+       "who tunes in to watch *people get along?*",
+       "peace is boring. violence goes viral."    ,
+       //"peace is boring. conflict gets clicks." ,
+       "and every story needs a conflict, so..."  ,
+       //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+       "GIVE THE AUDIENCE WHAT THEY WANT."
     ] ,
     
     // -- Strings currently in graphics resources --
     
     // (bg_preload.png) Preload screen
-    "playingTime"        : "durata del gioco: 5 minuti" ,
-    "warning"            : "attenzione: il seguente programma\ncontiene scene di indifferenza,\nmaleducazione e stragi.\nAdatto a un pubblico adulto" ,
+    "playingTime"        : "playing time: 5 minutes" ,
+    "warning"            : "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised." ,
     
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "INQUADRA E CLICCA" , 
+    "pointAndClick"      : "POINT & CLICK" ,
     
     // (chyron3.png)
-    "chyronNothing"      : "WOW, NON C’\xC8 *NIENTE*!" ,
+    "chyronNothing"      : "WOWWEE, IT'S *NOTHING*" ,
     
     // (credits0001.png)
-    "createdBy"          : "" , 
-    "NickyCase"          : "" , // name; just here in case you want to display text instead of graphic. /stefan
+    "createdBy"          : "created by" ,
+    "NickyCase"          : "Nicky Case" ,
     
     // (credits0002.png)
-    "manyThanks"         : "grazie mille ai miei tester:" ,
+    "manyThanks"         : "many thanks to my playtesters:" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "e ai miei sostenitori su Patreon:" ,
+    "patreonSupporters"  : "and to my patreon supporters:" ,
     
     // (credits0007.png)
-    "lastButNotLeast"    : "e infine, ultimo ma non per importanza," ,
+    "lastButNotLeast"    : "and last but not least," ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "grazie a TE per aver giocato!" ,
+    "thankYouForPlaying" : "thank YOU for playing!" ,
     
     // (preload_play.png)
-    "playButton"         : "GIOCA" ,
+    "playButton"         : "PLAY" ,
     
     // (end_button.png) Post Credits
-    "otherWorkButton"    : "scopri altri miei progetti" ,
-    "buyCoffeeButton"    : "offrimi un caff\xE8" ,
-    "replayButton"       : "rigioca questa cosa" ,
+    "otherWorkButton"    : "see my other work" ,
+    "buyCoffeeButton"    : "buy me a coffee" ,
+    "replayButton"       : "replay this mess" ,
     
     // (logo.png) Post Credits
-    "logoWBWWB"          : "CONDIVIDI LA SOFFERENZA:" ,
+    "logoWBWWB"          : "SHARE THE PAIN:" ,
     
     // (end_prototype.png)
-    "endOfPrototype"     : "FINE DEL PROTOTIPO" ,
-    "toBeContinued"      : "(continua...)" ,
+    "endOfPrototype"     : "END OF PROTOTYPE" ,
+    "toBeContinued"      : "(to be continued!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "Siamo ciò che vediamo." , 
-    "WSOTATOTSU"         : "Modelliamo i nostri strumenti e poi i nostri strumenti modellano noi." ,
+    "WBWWB"              : "We become what we behold." ,
+    "WSOTATOTSU"         : "We shape our tools and then our tools shape us." ,
     
     // (quote0003.png)
-    "MarshallMcLuhan"    : "Marshall McLuhan" , // name; just here in case you want to display text instead of graphic. /stefan
+    "MarshallMcLuhan"    : "Marshall McLuhan" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(attribuzione errata)" ,
+    "misatrributed"      : "(misattributed)" ,
 };
 
-var textStrings = textStrings_EN;
+var textStrings = textStrings_IT;
