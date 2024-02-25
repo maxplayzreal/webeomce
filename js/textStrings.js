@@ -313,4 +313,4 @@ var textStrings_IT = {
     "misatrributed"      : "(attribuzione errata)" ,
 };
 
-var textStrings = textStrings_IT;
+var textStrings = textStrings_EN;
